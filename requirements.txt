@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-jose[cryptography]
+python-multipart
+pydantic
+pydantic-settings
+strawberry-graphql>=0.200
+pytest
+httpx
